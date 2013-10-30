@@ -17,7 +17,7 @@ if (isset($_GET['accept-cookies'])) {
 	<meta name="description" content="">
 
 	<!-- TITLE -->
-	<title><?php echo $title; ?> | Progress</title>
+	<title><?php echo $title; ?> | inProgress</title>
 
 	<!-- FONTS -->
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300' rel='stylesheet' type='text/css'>

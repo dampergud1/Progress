@@ -15,11 +15,11 @@ if (!isset($_COOKIE['accept-cookies'])) {
 <?php } ?>
 <header id="top">
 	<div class="center">
-		<h1>Progress</h1>
+		<h1><a href="index.php">inProgress</a></h1>
 		<nav id="menu">
 			<?php 
 
-			$group = 'a';
+			$group = 'guest';
 
 			switch ($group) {
 				case 'admin':
@@ -52,7 +52,7 @@ if (!isset($_COOKIE['accept-cookies'])) {
 					?>
 				<ul>
 					<li><a href="index.php">Hjem</a></li>
-					<li><a href="about.php">Hvad er Progress?</a></li>
+					<li><a href="about.php">Hvad er inProgress?</a></li>
 					<li><a href="stories.php">Det siger folk</a></li>
 					<li><a href="register.php">Tilmeld nu</a></li>
 					<li><a href="#" data-modal="modal-5" class="md-trigger">Log ind</a></li>

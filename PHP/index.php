@@ -14,8 +14,8 @@ makeHeader('Velkommen', array(''));
 	 ?>
 	<section id="main">
 		<div class="center">
-			<h1>Velkommen til Progress</h1>
-			<p>Med <strong>Progress</strong> er det nemmere end nogensinde før, for en virksomhed og dets medarbejdere, at holde syt på arbejdsopgaver. Progress gør det muligt at oprette opgaver og sende dem direkte til en medarbejders telefon.</p>
+			<h1>Velkommen til inProgress</h1>
+			<p>Med <strong>inProgress</strong> er det nemmere end nogensinde før, for en virksomhed og dets medarbejdere, at holde syt på arbejdsopgaver. Progress gør det muligt at oprette opgaver og sende dem direkte til en medarbejders telefon.</p>
 			<br><hr><br>
 			<h3 class="bold">Så nemt er det</h3>
 			<div class="feature">
